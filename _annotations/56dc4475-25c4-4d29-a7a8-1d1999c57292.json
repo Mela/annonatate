@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823613/canvas/3799087"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "9.7.1918 - Die Spanische Krankheit in Frankreich, nicht nur auf das Heer beschr\u00e4nkt. China \u00fcber 20.000 Menschen erkrankt. In England wird die Krankheit erfolgreich mit Chinin behandelt. ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-15T04:47:11.683Z",
+            "modified": "2021-08-15T04:48:12.217Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823613/canvas/3799087",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:254.97943115234375,5142.724609375,1093.2179565429688,453.9892578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823613/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/56dc4475-25c4-4d29-a7a8-1d1999c57292.json"
+}
