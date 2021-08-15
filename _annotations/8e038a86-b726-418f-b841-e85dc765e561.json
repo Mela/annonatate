@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "11.7.1918 - Turnerveranstaltung der Arbeiterjugend",
+            "value": "11.7.1918 - Turnerveranstaltung der Arbeiter-Turnerbunds",
             "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-15T05:08:27.591Z",
-            "modified": "2021-08-15T05:08:58.638Z"
+            "modified": "2021-08-15T05:09:24.921Z"
         }
     ],
     "target": {
