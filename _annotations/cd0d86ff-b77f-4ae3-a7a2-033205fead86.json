@@ -8,13 +8,13 @@ order: 2
         {
             "type": "TextualBody",
             "value": "18.7.1918 - Nur ein Sechstel und kein Drittel und es sind auch ganz andere Krankheiten. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-15T05:41:02.421Z",
-            "modified": "2021-08-15T05:41:28.298Z"
+            "modified": "2021-08-15T05:41:37.331Z"
         }
     ],
     "target": {
