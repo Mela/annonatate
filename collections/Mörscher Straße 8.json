@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "M\u00f6rscher Stra\u00dfe 8",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823699-3799548-list.json'></iiif-annotation>",
+            "title": "Kartoffelausgabestelle",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
