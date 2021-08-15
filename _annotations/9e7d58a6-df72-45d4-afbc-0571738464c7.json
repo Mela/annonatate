@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823697/canvas/3799536"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "15.10.1918 60 Todesf\u00e4lle in Heidelberg",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-15T06:01:25.593Z",
+            "modified": "2021-08-15T06:01:46.018Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823697/canvas/3799536",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:981.2634887695312,2807.09130859375,1068.4743041992188,156.99072265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823697/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/9e7d58a6-df72-45d4-afbc-0571738464c7.json"
+}
