@@ -3,32 +3,32 @@ canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823606/canvas/3799048"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "\"Die Spanische Krankheit\" in N\u00fcrnberg",
-            "purpose": "highlighting",
+            "created": "2021-08-15T03:25:25.824Z",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2021-08-15T03:25:25.824Z",
-            "modified": "2021-08-15T03:25:54.086Z"
+            "modified": "2021-08-15T03:47:11.188Z",
+            "purpose": "highlighting",
+            "type": "TextualBody",
+            "value": "1.7.1918. \"Die Spanische Krankheit\" in N\u00fcrnberg"
         }
     ],
+    "id": "https://mela.github.io/annonatate/annotations/1f109705-faf4-413f-992a-ca9f95b99c07.json",
     "target": {
-        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823606/canvas/3799048",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:907.8480224609375,3890.06591796875,1078.6417236328125,548.43115234375"
-        },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823606/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:907.8480224609375,3890.06591796875,1078.6417236328125,548.43115234375"
+        },
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823606/canvas/3799048"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/1f109705-faf4-413f-992a-ca9f95b99c07.json"
+    "type": "Annotation"
 }
