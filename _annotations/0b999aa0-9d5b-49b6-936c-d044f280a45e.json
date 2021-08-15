@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823612/canvas/3799083"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "8.7.1918 - Spanische Krankheit in Schweden ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-15T04:39:27.262Z",
+            "modified": "2021-08-15T04:39:44.370Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823612/canvas/3799083",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2407.880615234375,905.4824829101562,1078.641845703125,157.90924072265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823612/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/0b999aa0-9d5b-49b6-936c-d044f280a45e.json"
+}
