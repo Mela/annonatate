@@ -11,14 +11,8 @@
             "thumbnail": ""
         },
         {
-            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823608-3799060-list.json'></iiif-annotation>",
-            "title": "3.7.1918 ",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
             "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823607-3799055-list.json'></iiif-annotation>",
-            "title": "",
+            "title": "2.7.1918",
             "description": "",
             "thumbnail": ""
         }
