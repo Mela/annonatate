@@ -8,13 +8,13 @@ order: 1
         {
             "type": "TextualBody",
             "value": "2.7.1918 - Die \"Spanische Krankheit\" in Stuttgart. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-15T04:08:00.998Z",
-            "modified": "2021-08-15T04:08:17.343Z"
+            "modified": "2021-08-15T04:10:08.998Z"
         }
     ],
     "target": {
