@@ -279,6 +279,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3830087-3799935-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
