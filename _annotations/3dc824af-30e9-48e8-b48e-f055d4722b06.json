@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "13.7.1918 - 6800 Erkrankungen in der Schweizer Armee bis 9. Juli",
-            "purpose": "commenting",
+            "value": "13.7.1918 - 6800 Erkrankungen in der Schweizer Armee bis 9. Juli - 24 Todesf\u00e4lle. ",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-16T01:24:12.959Z",
-            "modified": "2021-08-16T01:24:39.676Z"
+            "modified": "2021-08-16T01:25:04.106Z"
         }
     ],
     "target": {
