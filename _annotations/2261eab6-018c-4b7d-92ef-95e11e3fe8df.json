@@ -3,32 +3,32 @@ canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823749/canvas/3799838"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "19.12.1918 - Max Schwerdt, im bl\u00fchenden Alter von 18 Jahren an der Gruppe verstorben.",
-            "purpose": "highlighting",
+            "created": "2021-08-16T04:49:36.465Z",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2021-08-16T04:49:36.465Z",
-            "modified": "2021-08-16T04:50:11.575Z"
+            "modified": "2021-08-16T05:44:13.924Z",
+            "purpose": "highlighting",
+            "type": "TextualBody",
+            "value": "19.12.1918 - Max Schwerdt, im bl\u00fchenden Alter von 18 Jahren an der Grippe verstorben."
         }
     ],
+    "id": "https://mela.github.io/annonatate/annotations/2261eab6-018c-4b7d-92ef-95e11e3fe8df.json",
     "target": {
-        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823749/canvas/3799838",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:3023.34423828125,637.6701049804688,1025.438232421875,1200.3532104492188"
-        },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823749/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:3023.34423828125,637.6701049804688,1025.438232421875,1200.3532104492188"
+        },
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823749/canvas/3799838"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/2261eab6-018c-4b7d-92ef-95e11e3fe8df.json"
+    "type": "Annotation"
 }
