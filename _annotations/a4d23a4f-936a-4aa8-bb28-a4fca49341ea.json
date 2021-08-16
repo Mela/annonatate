@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:1373.0477294921875,1675.7166748046875,1061.3372802734375,1386.5089111328125"
+            "value": "xywh=pixel:1373.0477294921875,1675.7166748046875,1065.7681884765625,1610.5794677734375"
         },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823706/manifest",
