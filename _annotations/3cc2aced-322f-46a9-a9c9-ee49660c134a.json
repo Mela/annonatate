@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823711/canvas/3799613"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "5.11.1918 - R\u00fcckgang der Infiziertenzahlen 2. Seit Oktober in Mannheim-Stadt an der Grippe und ihren Folgen gestorben: 210 Personen. In den Vororten Mannheims seit 18. Oktober 30 Personen. ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-16T03:24:20.508Z",
+            "modified": "2021-08-16T03:25:20.824Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823711/canvas/3799613",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2367.43408203125,619.4760131835938,1086.54541015625,325.963623046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823711/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/3cc2aced-322f-46a9-a9c9-ee49660c134a.json"
+}
