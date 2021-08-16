@@ -3,32 +3,32 @@ canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823706/canvas/3799589"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "28.10.1918 - Aus der Stadt",
-            "purpose": "highlighting",
+            "created": "2021-08-16T01:16:47.005Z",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2021-08-16T01:16:47.005Z",
-            "modified": "2021-08-16T01:17:00.227Z"
+            "modified": "2021-08-16T01:17:00.227Z",
+            "purpose": "highlighting",
+            "type": "TextualBody",
+            "value": "28.10.1918 - Aus der Stadt"
         }
     ],
+    "id": "https://mela.github.io/annonatate/annotations/a4d23a4f-936a-4aa8-bb28-a4fca49341ea.json",
     "target": {
         "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823706/canvas/3799589",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:1373.0477294921875,1675.7166748046875,1065.7681884765625,1610.5794677734375"
+            "value": "xywh=pixel:1373.0477294921875,1675.7166748046875,1069.9725341796875,1206.5406494140625"
         },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823706/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/a4d23a4f-936a-4aa8-bb28-a4fca49341ea.json"
+    "type": "Annotation"
 }
