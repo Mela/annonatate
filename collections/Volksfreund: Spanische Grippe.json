@@ -1,0 +1,38 @@
+---
+---
+{
+    "label": "Volksfreund: Spanische Grippe",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823606-3799048-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823607-3799055-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823608-3799060-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823609-3799063-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/annonatate/annotations/i3f-v20-3823610-3799068-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
