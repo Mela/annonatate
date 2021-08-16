@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3830130/canvas/3800188"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "27.2.1918 Die Grippeepidemie nimmt zu - again. In PAris werden durchschnittlich 240 Grippekranke in die Krankenh\u00e4user t\u00e4glich eingeliefert. ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-16T06:21:05.280Z",
+            "modified": "2021-08-16T06:21:36.835Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3830130/canvas/3800188",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:959.2012329101562,3541.5458984375,1097.5138549804688,355.123046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3830130/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/4adff776-81f6-4413-9ba0-e4d7432c4d21.json"
+}
