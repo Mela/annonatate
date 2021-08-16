@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "5.11.1918 - \"Aus der Partei\" Selbstt\u00f6tung im Grippe-Fieberwahn des Gemeinderats August B\u00fcrsel(?)",
-            "purpose": "commenting",
+            "value": "5.11.1918 - \"Aus der Partei\" Selbstt\u00f6tung im Grippe-Fieberwahn des Gemeinderats August B\u00fcrkel.",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-16T03:12:31.763Z",
-            "modified": "2021-08-16T03:13:38.209Z"
+            "modified": "2021-08-16T03:20:33.731Z"
         }
     ],
     "target": {
