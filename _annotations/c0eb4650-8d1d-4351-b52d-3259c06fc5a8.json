@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823722/canvas/3799671"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "18.11.1918 - Die j\u00fcngste Grippeseuche hat fast 20% aller Schwangeren und W\u00f6chnerinnen hinweggerafft. ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-16T03:57:18.705Z",
+            "modified": "2021-08-16T03:57:48.660Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823722/canvas/3799671",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:239.9105224609375,1521.1142578125,1111.6981201171875,2495.45751953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823722/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/c0eb4650-8d1d-4351-b52d-3259c06fc5a8.json"
+}
