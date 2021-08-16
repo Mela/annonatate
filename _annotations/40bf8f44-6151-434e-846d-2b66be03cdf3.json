@@ -3,32 +3,32 @@ canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3830128/canvas/3800178"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "25.2.1918 - Die Kosten der Spanischen Grippe. Ortskrankenkasse Durlach. ",
-            "purpose": "highlighting",
+            "created": "2021-08-16T06:18:50.473Z",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2021-08-16T06:18:50.473Z",
-            "modified": "2021-08-16T06:19:16.638Z"
+            "modified": "2021-08-16T06:30:50.254Z",
+            "purpose": "highlighting",
+            "type": "TextualBody",
+            "value": "25.2.1919 - Die Kosten der Spanischen Grippe. Ortskrankenkasse Durlach. "
         }
     ],
+    "id": "https://mela.github.io/annonatate/annotations/40bf8f44-6151-434e-846d-2b66be03cdf3.json",
     "target": {
-        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3830128/canvas/3800178",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:1075.79052734375,600.683349609375,1161.8193359375,1832.30810546875"
-        },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3830128/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:1075.79052734375,600.683349609375,1161.8193359375,1832.30810546875"
+        },
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3830128/canvas/3800178"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/40bf8f44-6151-434e-846d-2b66be03cdf3.json"
+    "type": "Annotation"
 }
