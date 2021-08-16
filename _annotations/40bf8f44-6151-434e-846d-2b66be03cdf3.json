@@ -8,13 +8,13 @@ order: 1
         {
             "type": "TextualBody",
             "value": "25.2.1918 - Die Kosten der Spanischen Grippe. Ortskrankenkasse Durlach. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-16T06:18:50.473Z",
-            "modified": "2021-08-16T06:19:05.436Z"
+            "modified": "2021-08-16T06:19:16.638Z"
         }
     ],
     "target": {
