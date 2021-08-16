@@ -3,32 +3,32 @@ canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823683/canvas/3799457"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "27.9.1918 - Realgymnasium Ettenheim wird um 14 Tage geschlossen. ",
-            "purpose": "highlighting",
+            "created": "2021-08-15T05:58:04.128Z",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2021-08-15T05:58:04.128Z",
-            "modified": "2021-08-15T05:58:27.332Z"
+            "modified": "2021-08-16T01:03:36.218Z",
+            "purpose": "highlighting",
+            "type": "TextualBody",
+            "value": "28.9.1918 - Realgymnasium Ettenheim wird um 14 Tage geschlossen. "
         }
     ],
+    "id": "https://mela.github.io/annonatate/annotations/33a580d9-1c1c-4ff2-b405-3d920fee4748.json",
     "target": {
-        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823683/canvas/3799457",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:1301.26806640625,2139.116943359375,1058.633056640625,149.024169921875"
-        },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823683/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:1301.26806640625,2139.116943359375,1058.633056640625,149.024169921875"
+        },
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823683/canvas/3799457"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "{{site.url}}{{site.baseurl}}/annotations/33a580d9-1c1c-4ff2-b405-3d920fee4748.json"
+    "type": "Annotation"
 }
