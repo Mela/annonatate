@@ -8,13 +8,13 @@ order: 1
         {
             "type": "TextualBody",
             "value": "21.11.1918 \"Arbeiter- und Soldatenr\u00e4te\" bereichern sich. Such surprise. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-16T04:00:14.066Z",
-            "modified": "2021-08-16T04:00:30.104Z"
+            "modified": "2021-08-16T04:03:44.928Z"
         }
     ],
     "target": {
