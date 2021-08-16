@@ -8,13 +8,13 @@ order: 2
         {
             "type": "TextualBody",
             "value": "28.10.1918 - B\u00fcrodiener der 'Volksseuche Grippe' zum Opfer gefallen. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-16T02:41:02.664Z",
-            "modified": "2021-08-16T02:41:27.583Z"
+            "modified": "2021-08-16T02:42:06.067Z"
         }
     ],
     "target": {
