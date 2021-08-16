@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823682/canvas/3799453"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "27.9.1918 - 800 Tote in Schweden, alleine 60 Tote am 26.9.1918",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-16T01:54:58.949Z",
+            "modified": "2021-08-16T01:55:33.328Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/3823682/canvas/3799453",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1370.2291259765625,4504.31298828125,1082.5894775390625,273.3046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3823682/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/9f448768-ef79-47fb-99f8-bfd9f890b76c.json"
+}
