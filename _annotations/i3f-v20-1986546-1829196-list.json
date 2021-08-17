@@ -1,0 +1,9 @@
+---
+canvas_id: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986546/canvas/1829196"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"resources": [{{ annotations | join: ","}}] }
