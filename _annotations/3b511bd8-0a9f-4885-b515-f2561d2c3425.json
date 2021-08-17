@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986546/canvas/1829196"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "22.9.1918 - Karlsruher Zeitung - Stockholm l\u00e4sst das Herbsman\u00f6ver ausfallen, wegen 21.000 F\u00e4llen von Grippe im Schwedischen Heer. ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-17T04:19:53.892Z",
+            "modified": "2021-08-17T04:20:28.279Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986546/canvas/1829196",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2014.4296875,1466.0947265625,1071.038818359375,296.0216064453125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1986546/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/3b511bd8-0a9f-4885-b515-f2561d2c3425.json"
+}
