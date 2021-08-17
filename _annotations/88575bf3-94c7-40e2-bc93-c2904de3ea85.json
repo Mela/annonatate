@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986570/canvas/1829291"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "19.10.1918 - Karlsruher Zeitung - \"Gegenma\u00dfnahmen bringen eigentlich nix, aber bleibt von Kranken weg und reist nicht\"",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-17T04:28:30.269Z",
+            "modified": "2021-08-17T04:28:56.028Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986570/canvas/1829291",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:267.59637451171875,706.688232421875,1139.6178588867188,3108.534912109375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1986570/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/88575bf3-94c7-40e2-bc93-c2904de3ea85.json"
+}
