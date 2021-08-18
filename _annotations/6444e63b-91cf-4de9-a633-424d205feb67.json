@@ -8,13 +8,13 @@ order: 1
         {
             "type": "TextualBody",
             "value": "13.8.1918 - Karlsruher Zeitung - Geheimrat Karl Sudhoff plaudert \u00fcber die weitverbreitete Spanische Krankheit und ihr auftreten in Deutschland in fr\u00fcheren Jahrhunderten. ",
-            "purpose": "commenting",
+            "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-18T10:15:47.772Z",
-            "modified": "2021-08-18T10:16:40.195Z"
+            "modified": "2021-08-18T10:16:53.985Z"
         }
     ],
     "target": {
