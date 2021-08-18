@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/2641138/canvas/2519808"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "21.10.1918 - Die Grippe in halbamtlicher Darstellung. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-18T07:11:03.995Z",
+            "modified": "2021-08-18T07:11:14.920Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/2641138/canvas/2519808",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2634.24072265625,633.1649169921875,888.576904296875,949.7076416015625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/2641138/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/9fa5fb78-a83c-4221-b40f-42bd04a74c9b.json"
+}
