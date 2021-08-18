@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "7.7.1918 - Karlsruher Zeitung - Achso, w\u00e4hrend sonst alles tuti ist, fallen aber Musiker f\u00fcr die Gebursttagsfeier des Gro\u00dfherzogs aus? ",
+            "value": "7.7.1918 - Karlsruher Zeitung - Achso, w\u00e4hrend sonst alles tuti ist, gibt es aber Ausf\u00e4lle bei den S\u00e4ngern des Sommertheaters?",
             "purpose": "highlighting",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
             "created": "2021-08-18T09:44:40.714Z",
-            "modified": "2021-08-18T09:45:44.904Z"
+            "modified": "2021-08-18T09:46:59.645Z"
         }
     ],
     "target": {
