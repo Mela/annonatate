@@ -1,0 +1,34 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986478/canvas/1828909"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "7.7.1918 - Karlsruher Zeitung - Achso, w\u00e4hrend sonst alles tuti ist, fallen aber Musiker f\u00fcr die Gebursttagsfeier des Gro\u00dfherzogs aus? ",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2021-08-18T09:44:40.714Z",
+            "modified": "2021-08-18T09:45:44.904Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/blbz/i3f/v20/1986478/canvas/1828909",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2375.141845703125,2778.11181640625,1049.370849609375,367.763671875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1986478/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/7214e65f-b2e9-40e7-9618-a651a18155e4.json"
+}
