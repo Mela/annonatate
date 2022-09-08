@@ -1,0 +1,44 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>Test</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1395,2634,1039,399"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1395.09529,2633.66155h519.39014v0h519.39014v199.73184v199.73184h-519.39014h-519.39014v-199.73184z\"  id=\"rectangle_f9e6417e-feff-4a51-82bb-34a7b07dee89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/manifest",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2022-09-08T01:40:49.584Z",
+    "@id": "aaa5e008-02dc-46b0-bcdf-341dc512d652.json",
+    "oa:annotatedBy": [
+        "Mela Eckenfels"
+    ]
+}
