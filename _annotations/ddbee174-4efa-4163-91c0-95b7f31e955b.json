@@ -1,0 +1,35 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sterbezahlen der St\u00e4dte \u00fcber 100.000 Einwohner ver\u00f6ffentlicht am 24.1.1922",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T01:29:08.603Z",
+            "modified": "2022-09-08T01:30:01.020Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2448.293212890625,2499.633056640625,1062.790283203125,2994.296630859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ddbee174-4efa-4163-91c0-95b7f31e955b.json",
+    "motivation": "commenting"
+}
